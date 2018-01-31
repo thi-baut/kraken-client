@@ -66,6 +66,7 @@
   <ItemGroup>
     <None Include="packages.config" />
     <None Include="app.config" />
+    <None Include="app.sample.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\KrakenClient\KrakenClient.csproj">
